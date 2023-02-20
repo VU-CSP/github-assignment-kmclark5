@@ -37,7 +37,7 @@ Q3 . What Git commands can be used to correct mistakes?
 3. `git reset` and `git revert`
 4. `git revert` and `git remove`
 
-Answer: 3 
+Answer: 3
 
 ------
 
@@ -60,7 +60,3 @@ Q5. Pull requests provide a mechanism to request which git action?
 4. push
 
 Answer: 3
-
-  #Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.....
-  #So initial function is to display the 'pushes' a developer made to a repositiory on GitHub 
-  #THEN once the 'Pull Request is OPENED' then it 'commits', 'merges',and goes to the main 'branch' 

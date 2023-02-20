@@ -15,7 +15,7 @@ Q1. Which statement about GitHub Classroom is true?
 3. GitHub Classroom is a website that provides online courses to learn about GitHub.
 4. GitHub Classroom is developed by 3rd party developers but uses the GitHub API to integrate into GitHub.
 
-Answer:
+Answer: 2 
 
 ------
 
@@ -26,7 +26,7 @@ Q2. What does the command `git add` do?
 3. Adds a file to the .git directory
 4. Adds a file to the working directory
 
-Answer:
+Answer: 2 or 4 
 
 ------
 
@@ -37,7 +37,7 @@ Q3 . What Git commands can be used to correct mistakes?
 3. `git reset` and `git revert`
 4. `git revert` and `git remove`
 
-Answer:
+Answer: 3 
 
 ------
 
@@ -48,7 +48,7 @@ Q4. Which GitHub feature provides task automation and workflow functionality, wh
 3. Pull Requests
 4. Actions
 
-Answer:
+Answer: 4 
 
 ------
 
@@ -59,4 +59,7 @@ Q5. Pull requests provide a mechanism to request which git action?
 3. merge
 4. push
 
-Answer:
+Answer: 4 
+  #Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.....
+  #So initial function is to display the 'pushes' a developer made to a repositiory on GitHub 
+  #THEN once the 'Pull Request is OPENED' then it 'commits', 'merges',and goes to the main 'branch' 
